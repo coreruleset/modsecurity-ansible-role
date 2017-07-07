@@ -56,6 +56,7 @@ Uninstall ModSec:
 
 License
 =======
+
 License: Apache 2.0
 
 Author: Chaim Sanders (@csanders-git) and contributors
